@@ -25,18 +25,18 @@ index-viewgallery = Veya ilham için <a data-l10n-name='gallery'>Coggle Gallery<
 
 index-colab-mindmaps-flowcharts-h = İşbirlikçi Zihin Haritaları & Akış Şemaları
 index-colab-mindmaps-flowcharts-p1 = Coggle zihin haritaları ve akış şemaları oluşturup onları paylaşmayı kolaylaştırır. Tarayıcınızda çevrim içi olarak çalışır, bir şey indirmenize gerek kalmaz. <a data-l10n-name='login'>Hemen giriş yapıp</a> çalışmaya başla!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-p2 = Not al, beyin fırtınası yap, planla veya aşırı yaratıcı başka bir şey, Coggle ile fikirlerini görsellere dökmek bir tık uzağında. İstediğin kadar arkadaşlarınla veya ekibinle paylaş. Dünyanın neresinde olurlarsa olsunlar, değişiklikler tarayıcılarında hemen belirecek.
 
-index-use-notes-h = Take Notes
-index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
+index-use-notes-h = Notlar Al
+index-use-notes-p = Toplantıda, çalışırken veya ilham perileri belirdiğinde mükemmel notlar almak için Coggle'ı kullan.
 
-index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.
+index-use-brainstorm-h = Beyin Fırtınası
+index-use-brainstorm-p = Bir fikir ortaya at, onu sula ve Coggle'la paylaşılmaya hazır görkemli bir ağaca dönüşmesini seyret.
 
-index-use-share-h = Share Information
-index-use-share-p = Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!
+index-use-share-h = Bilgi Paylaş
+index-use-share-p = Coggle'a bütün meseleyi detaylarıyla yaz, sonrasında arkadaşlarınla, ekibinle veya dünyayla paylaş!
 
-index-coggle-flow-title = Powerful Online Flowcharts
+index-coggle-flow-title = Güçlü Çevrimiçi Akış Şemaları
 index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
 
 features-realtime = Realtime Collaboration
